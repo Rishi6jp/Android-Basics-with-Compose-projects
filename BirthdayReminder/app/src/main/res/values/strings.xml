@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Birthday Reminder</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_birthdate">Enter BirthDay (in MM/DD)</string>
+</resources>

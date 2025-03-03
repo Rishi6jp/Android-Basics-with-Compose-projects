@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Art Space app</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name ="title1">Girl Underwater</string>
+    <string name="title2">Greek Goddess</string>
+    <string name="title3">Gen-z Smiling</string>
+    <string name="title4">Assasin</string>
+    <string name="title5">Sculpture</string>
+    <string name="title6">Girl Chilling</string>
+    <string name="month1">5 Aug, 2024</string>
+    <string name="month2">9 Aug 2024</string>
+    <string name="month3">9 Aug 2024</string>
+    <string name="month4">9 Aug 2024</string>
+    <string name="month5">10 Aug 2024</string>
+    <string name="month6">18 July 2024</string>
+
+
+</resources>
